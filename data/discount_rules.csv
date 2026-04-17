@@ -1,0 +1,5 @@
+rule_id,rule_name,condition_type,threshold,discount_rate
+duration_3h,3時間以上割引,duration,3,0.10
+duration_6h,6時間以上割引,duration,6,0.20
+member_monthly,月額会員,membership,0,0.20
+member_corporate,法人契約,membership,0,0.30

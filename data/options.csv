@@ -1,0 +1,7 @@
+option_id,option_name,category,price,unit
+projector,プロジェクター,機材,2000,per_day
+whiteboard,ホワイトボード,機材,500,per_day
+webmeeting_set,Web会議セット,機材,3000,per_day
+coffee_server,コーヒーサーバー,飲食,1500,per_day
+catering,ケータリング,飲食,1500,per_person
+wifi_boost,延長Wi-Fi帯域,ネット,2000,per_day

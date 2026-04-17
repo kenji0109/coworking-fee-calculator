@@ -1,0 +1,11 @@
+room_id,room_name,floor,capacity,price_weekday_hourly,price_holiday_hourly,price_daily_pack
+open_seat,オープンスペース,1F,1,500,800,3500
+booth_1,個室ブース1,2F,1,1200,1500,8000
+booth_2,個室ブース2,2F,1,1200,1500,8000
+booth_3,個室ブース3,2F,1,1200,1500,8000
+booth_4,個室ブース4,2F,1,1200,1500,8000
+meeting_a,会議室A,2F,4,2500,3000,17000
+meeting_b,会議室B,2F,8,4000,4800,27000
+meeting_c,会議室C,2F,16,7000,8400,48000
+event_small,イベントスペース小,3F,30,10000,12000,70000
+event_large,イベントスペース大,3F,80,18000,21600,125000
