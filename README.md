@@ -1,6 +1,6 @@
 # Workplace Hub Tokyo 料金シミュレーター
 
-架空のコワーキングスペース「Workplace Hub Tokyo」を題材にした、
+仮設のコワーキングスペース「Workplace Hub Tokyo」を題材にした、
 Python + Streamlit による料金計算アプリのサンプルプロジェクトです。
 
 > **注記**: 本プロジェクトは個人の学習・ポートフォリオ目的で作成された架空のアプリです。
