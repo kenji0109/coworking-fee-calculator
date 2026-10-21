@@ -9,3 +9,7 @@ Thumbs.db
 .streamlit/secrets.toml
 .vscode/
 .idea/
+
+# Environment variants can contain credentials; keep only the template.
+.env.*
+!.env.example
